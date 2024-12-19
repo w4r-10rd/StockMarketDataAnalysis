@@ -1,4 +1,5 @@
 # Files
+.gitignore
 predictions.csv
 stock_data.csv
 your_data.csv
